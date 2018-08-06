@@ -1,0 +1,8 @@
+[user]
+	username = shootaroo
+	name = Shotaro Tsubouchi
+	location = Tokyo, Japan
+[commit]
+	gpgsign = true
+[aliases]
+	github = shootaroo
